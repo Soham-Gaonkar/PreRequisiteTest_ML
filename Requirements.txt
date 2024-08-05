@@ -1,0 +1,8 @@
+numpy
+pandas
+sympy
+jax
+jax.numpy
+matplotlib
+time
+random
